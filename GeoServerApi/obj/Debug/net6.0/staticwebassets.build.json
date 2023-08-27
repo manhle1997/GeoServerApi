@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MaIQpJGyDLp7asW08zq2cPf+H8CA86S5nqEe5X/pvo0=",
+  "Source": "GeoServerApi",
+  "BasePath": "_content/GeoServerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
